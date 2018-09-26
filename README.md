@@ -2,7 +2,7 @@
 
 A heroku app to give you the latest Northcoders News
 
-https://nc-news-jo.herokuapp.com/
+https://jo-nc-news.herokuapp.com/
 
 ### Getting Started
 
